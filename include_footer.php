@@ -3,7 +3,7 @@
         <div class="container">
           <div class="row">
             <div class="col-sm-12 text-center">
-              <p><small><i class="fa fa-code"></i> Initial Development by R!chard Silva with the support of JLabs, Integrated to Legos by Sergio Bran.<br>
+              <p><small><i class="fa fa-code"></i> Initial Development by R!chard Silva with the support of JLabs, Updated for Postgres-XL 10r1 by Sergio Bran.<br>
               This site possible by combining the hard work of the Bootstrap, D3, jQuery, Postgres, and Postgres XL community.</small></p>
             </div>
           </div>
