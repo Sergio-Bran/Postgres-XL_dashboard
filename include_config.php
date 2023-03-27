@@ -23,48 +23,48 @@ $arrDBConns = array('Coordinator_1' => array('DBType' => 'Postgres'
                                  ,'DBIP' => '192.168.100.73'
                                  ,'DBPort' => 20004
                                  ,'DBName' => 'postgres'
-                                 ,'DBUser' => 'legosnoc'
-                                 ,'DBPass' => '54b!17/6@5ce0')
+                                 ,'DBUser' => 'monitor_user'
+                                 ,'DBPass' => 'password')
                   ,'Coordinator_2' => array('DBType' => 'Postgres'
                                  ,'DBVersion' => '10.1xl'
                                  ,'DBXLNode' => 'Coordinator'
                                  ,'DBIP' => '192.168.100.74'
                                  ,'DBPort' => 20005
                                  ,'DBName' => 'postgres'
-                                 ,'DBUser' => 'legosnoc'
-                                 ,'DBPass' => '54b!17/6@5ce0')
+                                 ,'DBUser' => 'monitor_user'
+                                 ,'DBPass' => 'password')
                   ,'Datanode_1' => array('DBType' => 'Postgres'
                                  ,'DBVersion' => '10.1xl'
                                  ,'DBXLNode' => 'Datanode'
                                  ,'DBIP' => '192.168.100.75'
                                  ,'DBPort' => 20008
                                  ,'DBName' => 'postgres'
-                                 ,'DBUser' => 'legosnoc'
-                                 ,'DBPass' => '54b!17/6@5ce0')
+                                 ,'DBUser' => 'monitor_user'
+                                 ,'DBPass' => 'password')
                   ,'Datanode_2' => array('DBType' => 'Postgres'
                                  ,'DBVersion' => '10.1xl'
                                  ,'DBXLNode' => 'Datanode'
                                  ,'DBIP' => '192.168.100.76'
                                  ,'DBPort' => 20009
                                  ,'DBName' => 'postgres'
-                                 ,'DBUser' => 'legosnoc'
-                                 ,'DBPass' => '54b!17/6@5ce0')
+                                 ,'DBUser' => 'monitor_user'
+                                 ,'DBPass' => 'password')
                   ,'Datanode_3' => array('DBType' => 'Postgres'
                                  ,'DBVersion' => '10.1xl'
                                  ,'DBXLNode' => 'Datanode_slave'
                                  ,'DBIP' => '192.168.100.77'
                                  ,'DBPort' => 20008
                                  ,'DBName' => 'postgres'
-                                 ,'DBUser' => 'legosnoc'
-                                 ,'DBPass' => '54b!17/6@5ce0')
+                                 ,'DBUser' => 'monitor_user'
+                                 ,'DBPass' => 'password')
                   ,'Datanode_4' => array('DBType' => 'Postgres'
                                  ,'DBVersion' => '10.1xl'
                                  ,'DBXLNode' => 'Datanode_slave'
                                  ,'DBIP' => '192.168.100.78'
                                  ,'DBPort' => 20009
                                  ,'DBName' => 'postgres'
-                                 ,'DBUser' => 'legosnoc'
-                                 ,'DBPass' => '54b!17/6@5ce0')
+                                 ,'DBUser' => 'monitor_user'
+                                 ,'DBPass' => 'password')
                   ,'GTM_proxy_01' => array('DBXLNode' => 'GTM Proxy'
                                  ,'DBIP' => '192.168.100.73'
                                  ,'DBPort' => 20002)
